@@ -1,1 +1,2 @@
-# TallerTypeScript1
+Rodrigo Garcia Aguirre
+Taller TypeScript1
